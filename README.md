@@ -8,6 +8,6 @@ I like to learn new things all the time, so I am aware of the latest technologie
  - 21 years old
  - Junior Programmer
 #
--- Check my profile as LinkedIn or Github, so you can be aware of each of my projects related to programming.
+Check my profile as LinkedIn or Github, so you can be aware of each of my projects related to programming.
 
--- Contact me through my email "contacs.luisc@gmail.com"
+Contact me through my email "contacs.luisc@gmail.com"
